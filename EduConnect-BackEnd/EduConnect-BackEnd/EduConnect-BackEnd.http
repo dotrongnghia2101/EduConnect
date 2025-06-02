@@ -1,0 +1,6 @@
+@EduConnect_BackEnd_HostAddress = http://localhost:5182
+
+GET {{EduConnect_BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
